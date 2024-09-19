@@ -1,8 +1,10 @@
-# Project Name: FitLife Fitness APP
+# Project Name: FitLife Fitness Application
 
 ## Overview
 
 <p>FitLife is a landing page for a fitness app focused on personalized workout plans, nutrition tracking, and community support. This project demonstrates a fully responsive landing page built using HTML and Tailwind CSS, showcasing essential components like a hero section, features list, testimonials, and a call-to-action (CTA).</p>
+
+## Live Demo- https://fit-life-fitness-app.vercel.app/
 
 ## Features
 
